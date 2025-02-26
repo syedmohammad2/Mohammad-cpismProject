@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", serif;
+}
+
+.navbar{
+    border-top: 10px solid #f0bf4c;
+}
+
+
+.form{
+    width: 500px;
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.feedbackform{
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mension{
+    color: red;
+}   
+
+
+.categories{
+    background: linear-gradient(rgba(255, 166, 0, 0.589), white);
+}
+
+/* .vision-mission{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+} */
